@@ -1,0 +1,19 @@
+---
+ID: 8482
+post_title: Baruwa Montessori Info
+author: Site Admin
+post_excerpt: ""
+layout: page
+permalink: >
+  https://honeylandschools.ng/baruwa-montessori-info/
+published: true
+post_date: 2018-08-09 17:00:29
+---
+[vc_row][vc_column][thim-gallery-images number="1" item_tablet="1" show_pagination="yes" image="8787,8788,8789,8790" image_size="full"][/vc_column][/vc_row][vc_row][vc_column][thim-heading title="HEAD TEACHER WELCOME SPEECH" title_uppercase="" clone_title="" line="true" bg_line="#d72d51" text_align="text-center"][/vc_column][/vc_row][vc_row css=".vc_custom_1539685651918{margin-top: -2rem !important;}"][vc_column width="1/2"][vc_column_text]"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="8794" img_size="full"][/vc_column][/vc_row][vc_row][vc_column][thim-heading title="BRIEF HISTORY" title_uppercase="" clone_title="" line="true" bg_line="#d72d51" text_align="text-center"][vc_column_text]
+<p style="text-align: justify;">Honeyland is a world class co-educational institution comprising of Creche, Nursery, Primary and Secondary schools. The Schools were established in August 2006 with the aim of providing the best environment to raise a selected group of world impactors as entrenched in our mission statement: To provide the best environment for balanced educational experiences aimed at attracting children from nations and returning leaders to nations.</p>
+<p style="text-align: justify;">Beautifully set as the largest building on the landscape of Ipaja, Lagos, Nigeria, and overlooking the largest housing estate in West Africa, we are conspicuous enough for accessibility and sufficiently detached for safety and academic concentration</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][thim-heading title="OUR LATEST NEWS" title_uppercase="" clone_title="" line="true" bg_line="#db224e" text_align="text-center"][/vc_column][/vc_row][vc_row css=".vc_custom_1539755901384{background-color: #660000 !important;}"][vc_column width="1/4"][vc_single_image image="8799" img_size="full" css_animation="fadeInRight"][vc_column_text css=".vc_custom_1539756077831{margin-top: -2rem !important;}"]
+<h4><span style="color: #ffffff;">Recreational Activities</span></h4>
+[/vc_column_text][vc_btn title="View More" color="black" css=".vc_custom_1539756094683{margin-top: -1rem !important;}"][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][/vc_row]
