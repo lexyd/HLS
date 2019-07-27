@@ -1,6 +1,6 @@
 ---
 ID: 8004
-post_title: Honeyland Montessori Ipaja
+post_title: Honeyland Montessori Baruwa
 author: Site Admin
 post_excerpt: ""
 layout: page
