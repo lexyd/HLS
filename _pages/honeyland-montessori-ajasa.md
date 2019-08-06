@@ -1,6 +1,6 @@
 ---
 ID: 8006
-post_title: honeyland Montessori Ajasa
+post_title: Honeyland Montessori Ajasa
 author: Site Admin
 post_excerpt: ""
 layout: page
