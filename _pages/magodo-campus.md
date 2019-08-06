@@ -1,6 +1,6 @@
 ---
 ID: 7999
-post_title: Honeyland Colege Magodo Campus
+post_title: Honeyland Colege Magodo
 author: Site Admin
 post_excerpt: ""
 layout: page
