@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-05 14:01:06
 ---
-[vc_row][vc_column][thim-heading title="Welcome To Honeyland College Ipaja" title_uppercase="" textcolor="#727475" clone_title="" line="" text_align="text-center"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][thim-heading title="Principal Goodwill Message" title_uppercase="" textcolor="#727475" sub_heading="Honeyland Ipaja
-
-lorem bla" clone_title="" line=""][vc_column_text]<span style="font-weight: 400;">Honeyland College, Ipaja was established in 2006 as a co-educational institution and was given Government Approval in March 2007. The school serves Ipaja, Ayobo, Abesan, Gowon and Shagari Estates, Egbeda, Akowonjo,Igando, Ikotun, the entire state, neighbouring state of Ogun and the nation in general. We have equally spread our tentacles to the African sub region and the world at large.</span>
+[vc_row][vc_column][thim-heading title="Welcome To Honeyland College Ipaja" title_uppercase="" textcolor="#727475" clone_title="" line="" text_align="text-center"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][thim-heading title="Principal Goodwill Message" title_uppercase="" textcolor="#727475" clone_title="" line=""][vc_column_text]<span style="font-weight: 400;">Honeyland College, Ipaja was established in 2006 as a co-educational institution and was given Government Approval in March 2007. The school serves Ipaja, Ayobo, Abesan, Gowon and Shagari Estates, Egbeda, Akowonjo,Igando, Ikotun, the entire state, neighbouring state of Ogun and the nation in general. We have equally spread our tentacles to the African sub region and the world at large.</span>
 
 <span style="font-weight: 400;">  Our mission statement provides us with clear direction for our work with students, parents, and colleagues.  </span>
 <blockquote><b>“</b><span style="font-weight: 400;">…</span><b><i>Attracting Children from Nations and Returning Leaders to Nations”!</i></b></blockquote>
